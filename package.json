@@ -24,12 +24,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/naserhha/ziman-ai-extension.git"
+    "url": "https://github.com/mnhashemabadi/ziman-ai-extension.git"
   },
   "bugs": {
-    "url": "https://github.com/naserhha/ziman-ai-extension/issues"
+    "url": "https://github.com/mnhashemabadi/ziman-ai-extension/issues"
   },
-  "homepage": "https://github.com/naserhha/ziman-ai-extension#readme",
+  "homepage": "https://github.com/mnhashemabadi/ziman-ai-extension#readme",
   "devDependencies": {
     "eslint": "^8.0.0",
     "prettier": "^2.8.0"

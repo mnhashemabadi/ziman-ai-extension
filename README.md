@@ -3,7 +3,7 @@
 A powerful Chrome extension for professional Kurdish language translation (Sorani and Kurmanji dialects) and 10 major world languages.
 
 [![Chrome Extension](https://img.shields.io/badge/Chrome-Extension-blue?logo=google-chrome)](https://chromewebstore.google.com/detail/ziman-ai-kurdish-translat/cjmmnobnimheoeeojobgfkgbdbohcjkn)
-[![Open Source](https://img.shields.io/badge/Open-Source-green?logo=github)](https://github.com/hashemabad/ziman-ai-extension)
+[![Open Source](https://img.shields.io/badge/Open-Source-green?logo=github)](https://github.com/mnhashemabadi/ziman-ai-extension)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 ## 🌍 Ziman AI - ابزار ترجمه کردی و چندزبانه
@@ -12,7 +12,7 @@ A powerful Chrome extension for professional Kurdish language translation (Soran
 
 ## Ziman AI - أداة الترجمة الكردية ومتعددة اللغات
 
-إضافة متصفح كروم متقدمة للترجمة الاحترافية للغة الكردية (لهجتي السورانية والكورمانجية) و 10 لغات رئيسية في العالم.
+إضافة متصفح كروم متقدمة للترجمة الاحترافية للغة الكردية (لهجتي السورانية والكورمانجية) و 10 لغات رئيسية في ا[...]
 
 ## Ziman AI - Kürtçe Çeviri ve Çok Dilli Araç
 
@@ -20,7 +20,7 @@ Kürtçe dilinin (Sorani ve Kurmanci lehçeleri) ve 10 ana dünya dilinin profes
 
 ## Ziman AI - کوردی وەرگەر و ئەلەڤی چەندزمانی
 
-ئەکستەنشنێکی کرۆمی پێشکەوتوو بۆ وەرگەرکردنی پڕۆفیشناڵی زمانی کوردی (دەڤۆکەکانی سۆرانی و کورمانجی) و ١٠ زمانی سەرەکی جیھان.
+ئەکستەنشنێکی کرۆمی پێشکەوتوو بۆ وەرگەرکردنی پڕۆفیشناڵی زمانی کوردی (دەڤۆکەکانی سۆرانی و کورمانجی) و ١٠ زما[...]
 
 ## Ziman AI - Kurdî Werger û Alavê Çendzimanî
 
@@ -32,13 +32,13 @@ Ekstensiyoneke Chrome ya pêşketî ji bo wergera profesyonel a zimanê kurdî (
 *Blockchain Tools & Smart Contracts Developer*  
 تهران، ایران
 
-تکنولوژیست و محقق با تمرکز بر بلاکچین، علم داده و نوآوری دیجیتال. دارای تجربه در توسعه استراتژیک و ساخت سیستم‌های هوشمند و مقیاس‌پذیر. مشتاق پل زدن بین تکنولوژی و تأثیر در رشته‌های مختلف.
+تکنولوژیست و محقق با تمرکز بر بلاکچین، علم داده و نوآوری دیجیتال. دارای تجربه در توسعه استراتژیک و ساخت سیست[...]
 
 ### 🔗 ارتباط با توسعه‌دهنده
 - **وب‌سایت**: [mohammadnasser.com](https://mohammadnasser.com) ↗
 - **X (توییتر)**: [@hashemabad](https://x.com/hashemabad)
 - **لینکدین**: [hashemabad](https://linkedin.com/in/hashemabad)
-- **گیت‌هاب**: [hashemabad](https://github.com/hashemabad)
+- **گیت‌هاب**: [mnhashemabadi](https://github.com/mnhashemabadi)
 - **تلگرام**: [@hashemabad](https://t.me/hashemabad)
 - **وردپرس**: [mohammadnasser.com](https://mohammadnasser.com)
 
@@ -71,7 +71,7 @@ Ekstensiyoneke Chrome ya pêşketî ji bo wergera profesyonel a zimanê kurdî (
 ## 🌟 الميزات الرئيسية
 
 - **الترجمة الكردية**: دعم كامل للهجتي السورانية والكورمانجية
-- **10 لغات رئيسية**: الإنجليزية، العربية، الفارسية، التركية، الفرنسية، الألمانية، الإسبانية، الروسية، الصينية، اليابانية
+- **10 لغات رئيسية**: الإنجليزية، العربية، الفارسية، التركية، الفرنسية، الألمانية، الإسبانية، الروسية، الصين[...]
 - **واجهة مستخدم حديثة**: تصميم جميل وسهل الاستخدام
 - **ترجمة ذكية**: اكتشاف تلقائي للغة وترجمة دقيقة
 - **ترجمة الصفحة**: ترجمة صفحات الويب كاملة
@@ -83,8 +83,8 @@ Ekstensiyoneke Chrome ya pêşketî ji bo wergera profesyonel a zimanê kurdî (
 
 ## 🌟 Ana Özellikler
 
-- **Kürtçe Çeviri**: Sorani ve Kurmanci lehçelerinin tam desteği
-- **10 Ana Dil**: İngilizce, Arapça, Farsça, Türkçe, Fransızca, Almanca, İspanyolca, Rusça, Çince, Japonca
+- **Kürtçe Çeviri**: Sorani ve Kurmanji lehçelerinin tam desteği
+- **10 Ana Dil**: İngilizce, Arapça, Farsça, Türkçe, Fransızca, Almanca, İspanyolca, Rusça, Çince, Japonî
 - **Modern Kullanıcı Arayüzü**: Güzel ve kullanıcı dostu tasarım
 - **Akıllı Çeviri**: Otomatik dil algılama ve doğru çeviri
 - **Sayfa Çevirisi**: Tüm web sayfalarını çevirme
@@ -94,37 +94,11 @@ Ekstensiyoneke Chrome ya pêşketî ji bo wergera profesyonel a zimanê kurdî (
 - **Kişisel Ayarlar**: Dil ve stil tercihlerini kaydetme
 - **Kişisel API**: Tüm yapay zeka sohbet botlarını kullanmak için kendi API anahtarınızı ekleyin
 
-## 🌟 تایبەتمەندییە سەرەکییەکان
-
-- **وەرگەرکردنی کوردی**: پشتگیریکردنی تەواوی دەڤۆکەکانی سۆرانی و کورمانجی
-- **١٠ زمانی سەرەکی**: ئینگلیزی، عەرەبی، فارسی، تورکی، فەرەنسی، ئەڵمانی، ئیسپانی، ڕووسی، چینی، ژاپۆنی
-- **ڕێبەری بەکارهێنەری مۆدێرن**: دیزاینێکی جوان و بەکارهێنەرپسەند
-- **وەرگەرکردنی زیرەک**: ناساندنی خۆکاری زمان و وەرگەرکردنی ورد
-- **وەرگەرکردنی پەڕە**: وەرگەرکردنی هەموو پەڕەکانی وێب
-- **وەرگەرکردنی هەڵبژاردن**: وەرگەرکردنی تێکستە هەڵبژێردراوەکان
-- **پشتگیری Weblate**: یەکخستن لەگەڵ API ی Weblate بۆ وەرگەرکردنە پڕۆفیشناڵییەکان
-- **وەرگەرکردنی دەنگی**: پیشاندانی دەنگی کوردی (بەپێی ئارەزوومەندی)
-- **ڕێکخستنەکانی کەسی**: پاشەکەوتکردنی ڕێکخستنەکانی زمان و ستایل
-- **API کەسی**: زیادکردنی API key خۆت بۆ بەکارهێنانی هەموو چات بۆتەکانی زیرەک
-
-## 🌟 Taybetmendiyên Sereke
-
-- **Wergera Kurdî**: Piştgiriyeke tevlihev a devokên soranî û kurmancî
-- **10 Zimanên Sereke**: Îngilîzî, Erebî, Farisî, Tirkî, Fransî, Almanî, Spanyolî, Rûsî, Çînî, Japonî
-- **Rêberiya Bikarhêner a Modern**: Dizaynek xweşik û bikarhênerhez
-- **Wergera Zîrek**: Nasnameya otomatîk a ziman û wergera rast
-- **Wergera Rûpelê**: Wergera hemû rûpelên web
-- **Wergera Hilbijartinê**: Wergera metnên hilbijartî
-- **Piştgiriya Weblate**: Entegrasyon bi API ya Weblate ji bo wergerên profesyonel
-- **Wergera Fonetîk**: Xuyangirtina telafûza kurdî (opsiyonel)
-- **Mîhengên Kesane**: Tomarkirina mîhengan ziman û şêwe
-- **API Kesane**: Zêdekirina API key ya xwe ji bo bikaranîna hemû chatbotên AI
-
 ## 🚀 Installation & Setup
 
 ### 1. Download & Extract
 ```bash
-git clone https://github.com/hashemabad/ziman-ai-extension.git
+git clone https://github.com/mnhashemabadi/ziman-ai-extension.git
 cd ziman-ai-extension
 ```
 
@@ -164,7 +138,7 @@ To use all AI chatbots and get unlimited translations:
 
 ### ۱. دانلود و استخراج
 ```bash
-git clone https://github.com/hashemabad/ziman-ai-extension.git
+git clone https://github.com/mnhashemabadi/ziman-ai-extension.git
 cd ziman-ai-extension
 ```
 
@@ -204,7 +178,7 @@ cd ziman-ai-extension
 
 ### ١. التحميل والاستخراج
 ```bash
-git clone https://github.com/hashemabad/ziman-ai-extension.git
+git clone https://github.com/mnhashemabadi/ziman-ai-extension.git
 cd ziman-ai-extension
 ```
 
@@ -244,7 +218,7 @@ cd ziman-ai-extension
 
 ### 1. İndirme ve Çıkarma
 ```bash
-git clone https://github.com/hashemabad/ziman-ai-extension.git
+git clone https://github.com/mnhashemabadi/ziman-ai-extension.git
 cd ziman-ai-extension
 ```
 
@@ -257,440 +231,4 @@ cd ziman-ai-extension
 
 ### 3. Etkinleştirme
 - Uzantı Chrome araç çubuğunda görünür
-- Açmak için simgeye tıklayın
-
-### 4. Kişisel API Anahtarı Kurulumu
-Tüm yapay zeka sohbet botlarını kullanmak ve sınırsız çeviri yapmak için:
-
-1. **API Anahtarlarını Alın**: 
-   - OpenAI: https://platform.openai.com/api-keys
-   - Anthropic: https://console.anthropic.com/
-   - Google AI: https://makersuite.google.com/app/apikey
-   - Diğer AI sağlayıcıları
-
-2. **Uzantıya Ekleyin**:
-   - Ziman AI uzantısını açın
-   - API anahtarınızı "AI API Key" alanına girin
-   - "Save API Key"e tıklayın
-   - "Test Connection" ile bağlantıyı test edin
-
-3. **Faydalar**:
-   - Tüm AI modellerine erişim (GPT-4, Claude, Gemini, vb.)
-   - Sınırsız çeviri
-   - Daha iyi doğruluk ve bağlam anlayışı
-   - Özel AI model seçimi
-
-## 🚀 دانان و ڕێکخستن
-
-### ١. داگرتن و دەرکردن
-```bash
-git clone https://github.com/hashemabad/ziman-ai-extension.git
-cd ziman-ai-extension
-```
-
-### ٢. دانان لە کرۆم
-1. وەبەڕگەری کرۆم بکە
-2. بڕۆ بۆ ناونیشانی `chrome://extensions/`
-3. دۆخی "Developer mode" چالاک بکە
-4. لەسەر "Load unpacked" کلیک بکە
-5. پۆڵدەری ئەکستەنشن هەڵبژێرە
-
-### ٣. چالاککردن
-- ئەکستەنشن لە تووڵبارەکەی کرۆم دەردەکەوێت
-- لەسەر ئایکۆنەکە کلیک بکە بۆ کردنەوەی
-
-### ٤. ڕێکخستنی API Key کەسی
-بۆ بەکارهێنانی هەموو چات بۆتەکانی زیرەک و وەرگەرکردنی نەبڕدراو:
-
-1. **وەرگرتنی API Keys**: 
-   - OpenAI: https://platform.openai.com/api-keys
-   - Anthropic: https://console.anthropic.com/
-   - Google AI: https://makersuite.google.com/app/apikey
-   - دابەشکەرانی تر لە AI
-
-2. **زیادکردن بۆ ئەکستەنشن**:
-   - ئەکستەنشنی Ziman AI بکە
-   - API key خۆت لە خانەی "AI API Key" بنووسە
-   - لەسەر "Save API Key" کلیک بکە
-   - پەیوەندی بە "Test Connection" تاقی بکەرەوە
-
-3. **سوودەکان**:
-   - دەستپێگەیشتن بە هەموو مۆدێلەکانی AI (GPT-4, Claude, Gemini, هتد)
-   - وەرگەرکردنی نەبڕدراو
-   - وردی باشتر و تێگەیشتنی پێشەوە
-   - هەڵبژاردنی مۆدێلی AI تایبەت
-
-## 🚀 Sazkirin û Rêvekirin
-
-### 1. Daxistin û Derxistin
-```bash
-git clone https://github.com/hashemabad/ziman-ai-extension.git
-cd ziman-ai-extension
-```
-
-### 2. Sazkirin di Chrome de
-1. Gerokê Chrome veke
-2. Biçe nav adresê `chrome://extensions/`
-3. Moda "Developer mode" çalak bike
-4. Li ser "Load unpacked" biklik bike
-5. Peldanka ekstensiyonê hilbijêre
-
-### 3. Çalkirin
-- Ekstensiyon di toolbar ya Chrome de xuya dibe
-- Li ser îkonê biklik bike da ku veke
-
-### 4. Sazkirina API Key Kesane
-Ji bo bikaranîna hemû chatbotên AI û wergera bêsînor:
-
-1. **API Keys bistîne**: 
-   - OpenAI: https://platform.openai.com/api-keys
-   - Anthropic: https://console.anthropic.com/
-   - Google AI: https://makersuite.google.com/app/apikey
-   - Pêşkêşkerên din ên AI
-
-2. **Li Extension zêde bike**:
-   - Extension-ê Ziman AI veke
-   - API key-ê xwe di qada "AI API Key" de binivîse
-   - Li ser "Save API Key" bikirtîne
-   - Pêwendiyê bi "Test Connection" test bike
-
-3. **Feydeyên**:
-   - Destketina hemû modelên AI (GPT-4, Claude, Gemini, hwd)
-   - Wergera bêsînor
-   - Rastiya çêtir û têgihiştina kontekstê
-   - Hilbijartina modela AI ya xisûsî
-
-## 📁 ساختار فایل‌ها
-
-```
-ziman-ai-extension/
-├── manifest.json          # تنظیمات اصلی اکستنشن
-├── popup.html            # رابط کاربری اصلی
-├── popup.css             # استایل‌های رابط کاربری
-├── popup.js              # منطق اصلی اکستنشن
-├── background.js         # سرویس ورکر پس‌زمینه
-├── content.js            # اسکریپت محتوای صفحات
-├── content.css           # استایل‌های ویجت ترجمه
-├── weblate-api.js        # ادغام با API Weblate
-├── icons/                # آیکون‌های اکستنشن
-└── README.md             # این فایل
-```
-
-## 🔧 تنظیمات API
-
-### AIML API (ترجمه هوشمند AI)
-
-اکستنشن با [AIML API](https://aimlapi.com/) ادغام شده است که دسترسی به بیش از ۳۰۰ مدل AI پیشرفته را فراهم می‌کند:
-
-```javascript
-// تنظیمات AIML API
-const apiKey = '6e06e26fb9d14a67b263c4f8a1d3912b';
-const baseUrl = 'https://api.aimlapi.com/v1';
-```
-
-#### مدل‌های AI پشتیبانی شده:
-- **DeepSeek R1**: پشتیبانی عالی از زبان‌های چندگانه (۱۲۸K توکن)
-- **Claude 3.7 Sonnet**: تعادل بین استدلال و سرعت (۲۰۰K توکن)
-- **GPT-4o**: مدل چندوجهی OpenAI (۱۲۸K توکن)
-- **Qwen 3 235B**: قابلیت‌های قوی زبان‌های آسیایی (۳۲K توکن)
-- **Llama 3**: مدل متن‌باز Meta (۷۰B پارامتر)
-
-#### ویژگی‌های AIML API:
-- انتخاب خودکار بهترین مدل برای هر جفت زبان
-- ترجمه با کیفیت بالا و حفظ معنا
-- پشتیبانی از ۸۰+ زبان
-- تنظیمات tone (رسمی، غیررسمی، خنثی)
-- Batch translation برای متون متعدد
-
-### Weblate API (ترجمه حرفه‌ای)
-
-اکستنشن همچنین با [Weblate](https://hosted.weblate.org/) ادغام شده است:
-
-```javascript
-// تنظیمات Weblate API
-const apiKey = 'wlu_BMlpBPsGj2LjfiqoqYz7nO********VfK5w7';
-const baseUrl = 'https://hosted.weblate.org/api/';
-```
-
-#### قابلیت‌های Weblate:
-- جستجو در ترجمه‌های موجود
-- ترجمه ماشینی
-- پیشنهادات ترجمه
-- آمار زبان‌ها
-- مدیریت پروژه‌ها
-
-## 💻 استفاده
-
-### ترجمه متن
-1. روی آیکون اکستنشن کلیک کنید
-2. زبان مبدا و مقصد را انتخاب کنید
-3. متن را وارد کنید
-4. روی "Translate" کلیک کنید
-
-### ترجمه انتخاب
-1. متن مورد نظر را در صفحه انتخاب کنید
-2. روی راست کلیک کنید
-3. "Translate with Ziman AI" را انتخاب کنید
-
-### ترجمه صفحه
-1. روی آیکون اکستنشن کلیک کنید
-2. روی "Translate Page" کلیک کنید
-
-## 🧪 تست و توسعه
-
-### تست AIML API
-برای تست قابلیت‌های AIML API، فایل `test-aiml.html` را در مرورگر باز کنید:
-
-```bash
-# باز کردن فایل تست
-open test-aiml.html
-```
-
-#### قابلیت‌های تست:
-- **تست اتصال**: بررسی اتصال به AIML API
-- **تست ترجمه**: ترجمه متن با AI
-- **ترجمه دسته‌ای**: ترجمه چندین متن همزمان
-- **اطلاعات مدل**: نمایش جزئیات مدل‌های AI
-- **بررسی استفاده**: کنترل محدودیت‌های API
-- **تست خطاها**: بررسی مدیریت خطاها
-
-### تست ترجمه
-برای تست عمومی ترجمه، فایل `test-translation.html` را استفاده کنید.
-
-## 🌐 Supported Languages
-
-| Language | Code | Dialect |
-|----------|------|---------|
-| Kurdish Sorani | `ku-sorani` | Southern dialect |
-| Kurdish Kurmanji | `ku-kurmanji` | Northern dialect |
-| English | `en` | - |
-| Arabic | `ar` | - |
-| Persian | `fa` | - |
-| Turkish | `tr` | - |
-| French | `fr` | - |
-| German | `de` | - |
-| Spanish | `es` | - |
-| Russian | `ru` | - |
-| Chinese | `zh` | - |
-| Japanese | `ja` | - |
-
-## 🌐 زبان‌های پشتیبانی شده
-
-| زبان | کد | لهجه |
-|------|-----|-------|
-| کردی سورانی | `ku-sorani` | لهجه جنوبی |
-| کردی کرمانجی | `ku-kurmanji` | لهجه شمالی |
-| انگلیسی | `en` | - |
-| عربی | `ar` | - |
-| فارسی | `fa` | - |
-| ترکی | `tr` | - |
-| فرانسوی | `fr` | - |
-| آلمانی | `de` | - |
-| اسپانیایی | `es` | - |
-| روسی | `ru` | - |
-| چینی | `zh` | - |
-| ژاپنی | `ja` | - |
-
-## 🌐 اللغات المدعومة
-
-| اللغة | الرمز | اللهجة |
-|-------|-------|---------|
-| الكردية السورانية | `ku-sorani` | اللهجة الجنوبية |
-| الكردية الكورمانجية | `ku-kurmanji` | اللهجة الشمالية |
-| الإنجليزية | `en` | - |
-| العربية | `ar` | - |
-| الفارسية | `fa` | - |
-| التركية | `tr` | - |
-| الفرنسية | `fr` | - |
-| الألمانية | `de` | - |
-| الإسبانية | `es` | - |
-| الروسية | `ru` | - |
-| الصينية | `zh` | - |
-| اليابانية | `ja` | - |
-
-## 🌐 Desteklenen Diller
-
-| Dil | Kod | Lehçe |
-|-----|-----|-------|
-| Kürtçe Sorani | `ku-sorani` | Güney lehçesi |
-| Kürtçe Kurmanci | `ku-kurmanji` | Kuzey lehçesi |
-| İngilizce | `en` | - |
-| Arapça | `ar` | - |
-| Farsça | `fa` | - |
-| Türkçe | `tr` | - |
-| Fransızca | `fr` | - |
-| Almanca | `de` | - |
-| İspanyolca | `es` | - |
-| Rusça | `ru` | - |
-| Çince | `zh` | - |
-| Japonca | `ja` | - |
-
-## 🌐 زمانە پشتگیریکراوەکان
-
-| زمان | کۆد | دەڤۆک |
-|------|-----|-------|
-| کوردی سۆرانی | `ku-sorani` | دەڤۆکی باشووری |
-| کوردی کورمانجی | `ku-kurmanji` | دەڤۆکی باکووری |
-| ئینگلیزی | `en` | - |
-| عەرەبی | `ar` | - |
-| فارسی | `fa` | - |
-| تورکی | `tr` | - |
-| فەرەنسی | `fr` | - |
-| ئەڵمانی | `de` | - |
-| ئیسپانی | `es` | - |
-| ڕووسی | `ru` | - |
-| چینی | `zh` | - |
-| ژاپۆنی | `ja` | - |
-
-## 🌐 Zimanên Piştgirîkirî
-
-| Ziman | Kod | Devok |
-|--------|-----|-------|
-| Kurdî Soranî | `ku-sorani` | Devoka başûrî |
-| Kurdî Kurmancî | `ku-kurmanji` | Devoka bakurî |
-| Îngilîzî | `en` | - |
-| Erebî | `ar` | - |
-| Farisî | `fa` | - |
-| Tirkî | `tr` | - |
-| Fransî | `fr` | - |
-| Almanî | `de` | - |
-| Spanyolî | `es` | - |
-| Rûsî | `ru` | - |
-| Çînî | `zh` | - |
-| Japonî | `ja` | - |
-
-## ⚙️ تنظیمات پیشرفته
-
-### تنظیمات ذخیره شده
-- زبان مبدا و مقصد
-- سطح رسمیت (رسمی، غیررسمی، خنثی)
-- تنظیمات ترجمه آوایی
-
-### کلیدهای میانبر
-- `Ctrl+Shift+T`: باز کردن اکستنشن
-- `Ctrl+Shift+S`: ترجمه انتخاب
-- `Ctrl+Shift+P`: ترجمه صفحه
-
-## 🔒 حریم خصوصی و امنیت
-
-- تمام ترجمه‌ها محلی انجام می‌شوند
-- اطلاعات شخصی ذخیره نمی‌شود
-- ارتباط با API Weblate امن است
-- تنظیمات در مرورگر ذخیره می‌شود
-
-## 🛠️ توسعه و سفارشی‌سازی
-
-### اضافه کردن زبان جدید
-```javascript
-// در popup.js
-const newLanguage = {
-    code: 'hi',
-    name: 'Hindi',
-    nativeName: 'हिन्दी'
-};
-```
-
-### تغییر API ترجمه
-```javascript
-// در weblate-api.js
-class CustomTranslationAPI extends WeblateAPI {
-    async translateText(text, sourceLang, targetLang) {
-        // منطق سفارشی ترجمه
-    }
-}
-```
-
-## 📊 آمار و عملکرد
-
-- **سرعت**: ترجمه در کمتر از ۱ ثانیه
-- **دقت**: ۹۵٪+ برای زبان‌های پشتیبانی شده
-- **حافظه**: کمتر از ۵۰MB
-- **سازگاری**: کروم ۸۸+
-
-## 🤝 مشارکت
-
-ما از مشارکت شما استقبال می‌کنیم!
-
-### نحوه مشارکت:
-1. پروژه را Fork کنید
-2. شاخه جدید ایجاد کنید (`git checkout -b feature/amazing-feature`)
-3. تغییرات را Commit کنید (`git commit -m 'Add amazing feature'`)
-4. شاخه را Push کنید (`git push origin feature/amazing-feature`)
-5. Pull Request ایجاد کنید
-
-### گزارش باگ:
-- از بخش Issues استفاده کنید
-- جزئیات کامل مشکل را ارائه دهید
-- مرورگر و نسخه کروم را مشخص کنید
-
-## 📄 مجوز
-
-این پروژه تحت مجوز MIT منتشر شده است. برای جزئیات بیشتر فایل `LICENSE` را مطالعه کنید.
-
-## 📞 پشتیبانی
-
-- **ایمیل**: info@mohammadnasser.com
-- **گیت‌هاب**: [Issues](https://github.com/hashemabad/ziman-ai-extension/issues)
-- **مستندات**: [Wiki](https://github.com/hashemabad/ziman-ai-extension/wiki)
-
-## 🙏 Acknowledgments
-
-- [Weblate](https://hosted.weblate.org/) team for excellent API
-- Kurdish community for support
-- All contributors
-- **Mohammad Nasser Haji Hashemabad (Nasser Hashemabadi)** for developing and supporting this project
-
-## 🙏 تشکر
-
-- تیم [Weblate](https://hosted.weblate.org/) برای API عالی
-- جامعه کردی برای پشتیبانی
-- تمام مشارکت‌کنندگان
-- **Mohammad Nasser Haji Hashemabad (Nasser Hashemabadi)** برای توسعه و پشتیبانی از این پروژه
-
-## 🙏 شكر وتقدير
-
-- فريق [Weblate](https://hosted.weblate.org/) على API الممتاز
-- المجتمع الكردي على الدعم
-- جميع المساهمين
-- **Mohammad Nasser Haji Hashemabad (Nasser Hashemabadi)** لتطوير ودعم هذا المشروع
-
-## 🙏 Teşekkürler
-
-- [Weblate](https://hosted.weblate.org/) ekibi mükemmel API için
-- Kürt toplumu destek için
-- Tüm katkıda bulunanlar
-- **Mohammad Nasser Haji Hashemabad (Nasser Hashemabadi)** bu projeyi geliştirdiği ve desteklediği için
-
-## 🙏 سوپاس
-
-- تیمی [Weblate](https://hosted.weblate.org/) بۆ API یە جوانە
-- کۆمەڵگەی کوردی بۆ پشتگیریکردن
-- هەموو بەشدارەکان
-- **Mohammad Nasser Haji Hashemabad (Nasser Hashemabadi)** بۆ پێشکەوتن و پشتگیریکردنی ئەم پڕۆژەیە
-
-## 🙏 Spas
-
-- Tîma [Weblate](https://hosted.weblate.org/) ji bo API ya xweşik
-- Civata kurdî ji bo piştgiriyê
-- Hemû beşdarên
-- **Mohammad Nasser Haji Hashemabad (Nasser Hashemabadi)** ji bo pêşxistin û piştgiriya vê projeyê
-
----
-
-**Ziman AI** - ترجمه کردی، ساده و حرفه‌ای 🚀
-
----
-
-**Ziman AI** - الترجمة الكردية، بسيطة واحترافية 🚀
-
----
-
-**Ziman AI** - Kürtçe Çeviri, Basit ve Profesyonel 🚀
-
----
-
-**Ziman AI** - وەرگەرکردنی کوردی، ئاسان و پڕۆفیشناڵ 🚀
-
----
-
-**Ziman AI** - Wergera Kurdî, Hêsan û Profesyonel 🚀
+- Açmak için simgeye ت...
